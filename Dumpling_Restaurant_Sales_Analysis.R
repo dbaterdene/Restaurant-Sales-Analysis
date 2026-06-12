@@ -12,7 +12,7 @@ library(viridis)
 # ==========================================================
 
 # Sales transaction dataset
-sales <- Sales_07to12
+sales <- Sales_Store1
 
 # ==========================================================
 # 3. Data Understanding
