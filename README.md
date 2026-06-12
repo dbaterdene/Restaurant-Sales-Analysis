@@ -1,18 +1,33 @@
-# Restaurant-Sales-Analysis
-############################################################
-# Project: Restaurant Sales Performance Analysis
-# Author: Duke Bat-Erdene
-# Role: Data Analyst Portfolio Project
-#
-# Objective:
-# Analyze restaurant sales transactions from July to December
-# to identify revenue trends, customer purchasing behavior,
-# peak business hours, and operational opportunities.
-#
-# Business Questions:
-# 1. How does revenue change month-to-month?
-# 2. What are the busiest days and hours?
-# 3. How much does the average customer spend?
-# 4. Are there seasonal sales patterns?
-# 5. What insights can improve staffing and promotions?
-############################################################
+# 📈 Revenue Optimization Analytics with R
+
+Transforming restaurant transaction data into actionable business insights.
+
+## Project Overview
+
+This project analyzes six months of restaurant sales data to identify revenue trends, customer spending behavior, peak operating hours, and business optimization opportunities.
+
+## Tools
+
+* R
+* Tidyverse
+* ggplot2
+* lubridate
+
+## Key Insights
+
+* Identified peak revenue periods and busiest operating hours
+* Analyzed customer spending patterns and transaction distributions
+* Evaluated weekday and monthly sales performance
+* Developed business recommendations for staffing and promotions
+
+## Skills Demonstrated
+
+**Data Analysis • Data Cleaning • Data Visualization • KPI Reporting • Business Intelligence • Exploratory Data Analysis (EDA)**
+
+## About Me
+
+**Duke Bat-Erdene**
+
+Data Analyst skilled in SQL, Python, R, Power BI, and Business Intelligence, focused on transforming data into measurable business value.
+
+🔗 LinkedIn: linkedin.com/in/dugarjavb
